@@ -1,2 +1,3 @@
-<?=teste?>
-
+<?= phpinfo();?>
+<?="teste";?>
+<?= "Hello World";?>
